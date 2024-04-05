@@ -1,7 +1,7 @@
-from fpdf import FPDF
 import pandas as pd
 import streamlit as st
 import base64
+from fpdf import FPDF
 
 
 # Define function to generate PDF
